@@ -1,5 +1,7 @@
-## Greetings, Earthlings 🌎
-My name is John Smillie. I am graduate student at DePaul University studying computer science. 
+# Greetings, Earthlings 🌎
+ **My name is John Smillie. I am graduate student at DePaul University studying computer science.**
+
+*<small>(Please note, the commit history of this profile does not reflect my time as a student)</small>*
 
 - 🔭 **I’m currently working on:** e-commerce site, The Odin Project, my portfolio site
 - 🌱 **I’m currently learning:** javascript, CSS, MERN stack, React/Spring, CI/CD pipelines
