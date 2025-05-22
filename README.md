@@ -4,7 +4,7 @@
 *<small>(Please note, the commit history of this profile does not reflect my time as a student)</small>*
 
 - 🔭 **I’m currently working on:** AWS Cloud Certifications, Full Stack Open, my portfolio site, e-commerce w/ Spring
-- 🌱 **I’m currently learning:** javascript, CSS, MERN stack, React/Spring, CI/CD pipelines
+- 🌱 **I’m currently learning:** javascript, full stack development, MERN stack, React/Spring, CI/CD pipelines
 - 👯 **I’m looking to collaborate on:** full-stack projects, java projects
 - 📫 **How to reach me:** www.linkedin.com/in/john-smillie 
 <!--
